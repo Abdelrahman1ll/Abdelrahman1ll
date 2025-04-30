@@ -1,10 +1,10 @@
 for freelance work? do reach, [email](mailto:abdoabdoyytt5678@gmail.com) :)
-## Hi there 👋
 
 
 
 
-👋 مرحبًا! أنا [اسمك]
+
+👋 مرحبًا! أنا عبدالرحمن محمد
 أنا مطور ويب Full Stack بخبرة في Backend وFrontend، بصمّم وبطوّر تطبيقات ويب قوية وسلسة، من الفكرة لحد الإنتاج.
 
 💡 وش شغلي؟
@@ -34,7 +34,7 @@ for freelance work? do reach, [email](mailto:abdoabdoyytt5678@gmail.com) :)
 
 📬 خلينا نبدأ!
 لو عندك فكرة، مشروع، أو حتى MVP محتاج يشتغل بسرعة وكفاءة —
-ابعتلي على [email@example.com] أو تواصل معايا من خلال GitHub.
+ابعتلي على abdoabdoyytt5678@gmail.com أو تواصل معايا من خلال GitHub.
 
 العميل الشاطر بيختار الشريك الصح، وأنا جاهز أكون الشريك ده. 😊
 
@@ -42,7 +42,7 @@ for freelance work? do reach, [email](mailto:abdoabdoyytt5678@gmail.com) :)
 **Abdelrahman1ll/Abdelrahman1ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
