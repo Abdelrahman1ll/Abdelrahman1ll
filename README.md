@@ -21,9 +21,9 @@ for freelance work? do reach, [email](mailto:abdoabdoyytt5678@gmail.com) :)
 📂 شوف شغلي
 شغلي كله مفتوح المصدر وعليه شرح واضح:
 
-[🔗 [Portfolio Project](https://github.com/Abdelrahman1ll/e-commerce-React.js)](رابط الريبو): مثال لتطبيق حقيقي كامل مع تسجيل دخول ودفع.
+[🔗 [Portfolio Project](https://github.com/Abdelrahman1ll/Chocobar-Nest.ts)](رابط الريبو): مثال لتطبيق حقيقي كامل مع تسجيل دخول ودفع.
 
-[🔗 [REST API Boilerplate](https://github.com/Abdelrahman1ll/e-commerce-React.js)](رابط الريبو): قاعدة جاهزة لبناء RESTful APIs بشكل آمن واحترافي.
+[🔗 [REST API Boilerplate](https://github.com/Abdelrahman1ll/e-commerce-Node.js)](رابط الريبو): قاعدة جاهزة لبناء RESTful APIs بشكل آمن واحترافي.
 
 [🔗 [UI Projects](https://github.com/Abdelrahman1ll/e-commerce-React.js)](رابط الريبو): تصميمات واجهات تفاعلية مع دعم كامل للهواتف.
 
