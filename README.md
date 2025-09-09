@@ -25,7 +25,7 @@ for freelance work? do reach, [email](mailto:abdoabdoyytt5678@gmail.com) :)
 
 [🔗 [REST API Boilerplate](https://github.com/Abdelrahman1ll/e-commerce-Node.js)](رابط الريبو): قاعدة جاهزة لبناء RESTful APIs بشكل آمن واحترافي.
 
-[🔗 [UI Projects](https://github.com/Abdelrahman1ll/e-commerce-React.js)](رابط الريبو): تصميمات واجهات تفاعلية مع دعم كامل للهواتف.
+[🔗 [UI Projects](https://github.com/Abdelrahman1ll/Chocobar-Angular)](رابط الريبو): تصميمات واجهات تفاعلية مع دعم كامل للهواتف.
 
 تقدر تراجع كل المشاريع من صفحة الريبو وتقرأ الكود وتتأكد من الجودة.
 
